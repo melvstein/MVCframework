@@ -7,4 +7,5 @@ I autoload the models by adding
             "app/models"
         ]
     }
-then run the composer dump-autoload    
+
+in the composer.json then run the composer dump-autoload    
