@@ -1,5 +1,7 @@
 # PHP MVC template
 
+change the .htaccess RewriteBase directory base on your directory.
+
 I installed eloquent using composer require illuminate/database.
 I autoload the models by adding
  "autoload": {
